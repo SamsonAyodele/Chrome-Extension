@@ -1,5 +1,5 @@
 // let myLeads = ["www.awesomelead.com", "www.epiclead.com", "www.greatlead.com"]
-const myLeads = []
+let myLeads = []
 let inputEl = document.getElementById("input-el")
 
 let inputBtn = document.getElementById("input-btn")
